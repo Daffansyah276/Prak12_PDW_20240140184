@@ -1,4 +1,4 @@
-# 🎣 Mancing Jaya — Toko Alat Pancing Online
+# 🎣 Mancing Josjis — Toko Alat Pancing Online
 
 Website toko alat pancing modern dibangun dengan **React + Vite + Tailwind CSS**.
 
@@ -44,7 +44,7 @@ src/
 │   ├── Testimonials.jsx
 │   ├── Footer.jsx
 │   └── Toast.jsx
-├── data.js          ← semua data produk & konten
+├── data.js          
 ├── App.jsx
 ├── main.jsx
 └── index.css
