@@ -12,19 +12,19 @@ export const products = [
     id: 1,
     name: "Joran Pancing Daiwa",
     price: 250000,
-    src: "/hahaha.jpg"
+    src: "./hahaha.jpg"
   },
   {
     id: 2,
     name: "Reel Pancing Shimano",
     price: 450000,
-    src: "/image.png"
+    src: "./image.png"
   },
   {
     id: 3,
     name: "Umpan Ikan",
     price: 50000,
-    src: "/gacorwak.jpg"
+    src: "./gacorwak.jpg"
   }
 ];
 

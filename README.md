@@ -1,4 +1,4 @@
-# 🎣 Mancing Josjis — Toko Alat Pancing Online
+# 🎣 Mancing Jaya — Toko Alat Pancing Online
 
 Website toko alat pancing modern dibangun dengan **React + Vite + Tailwind CSS**.
 

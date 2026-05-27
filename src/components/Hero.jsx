@@ -63,7 +63,7 @@ export default function Hero() {
               
               <div className="mb-6 flex justify-center">
                 <img 
-                  src="/josjis.jpg" 
+                  src="./josjis.jpg" 
                   alt="Combo Joran dan Reel" 
                   className="w-48 h-48 object-cover rounded-xl shadow-lg border border-white/10"
                 />
