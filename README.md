@@ -2,29 +2,32 @@
 
 Website toko alat pancing modern dibangun dengan **React + Vite + Tailwind CSS**.
 
+## 📸 Tampilan Website
+<table>
+  <tr>
+    <td align="center">
+      <img src="./ss1.png"
+    </td>
+    <td align="center">
+      <img src="./ss2.png" 
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./ss3.png" 
+    </td>
+    <td align="center">
+      <img src="./ss4.png" />
+    </td>
+  </tr>
+</table>
+
 ## 🚀 Cara Menjalankan
 
 ```bash
 npm install
 npm run dev        # http://localhost:5173
 ```
-
-## 📦 Build Production
-
-```bash
-npm run build
-npm run preview
-```
-
-## 🌐 Deploy ke Vercel
-
-```bash
-npm i -g vercel
-vercel --prod
-```
-
-Atau: push ke GitHub → import di [vercel.com](https://vercel.com) → Deploy otomatis.
-
 ## 📁 Struktur Project
 
 ```
